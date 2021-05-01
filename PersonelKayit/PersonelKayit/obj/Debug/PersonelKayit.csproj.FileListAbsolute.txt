@@ -1,0 +1,152 @@
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.AnaForm.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Istatistik.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Grafikler.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.GirisPaneli.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Raporlar.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\stdole.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Raporlama.resources
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\RdlCompile.cache
+C:\Users\Lenovo\Desktop\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\RdlCompile.compiled
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe.config
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.exe
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\PersonelKayit.pdb
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\EnvDTE.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\stdole.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\Microsoft.MSXML.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csprojAssemblyReference.cache
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.AnaForm.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Istatistik.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Grafikler.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.GirisPaneli.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Properties.Resources.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Raporlama.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.Raporlar.resources
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.GenerateResource.cache
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\RdlCompile.cache
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\RdlCompile.compiled
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CoreCompileInputs.cache
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.csproj.CopyComplete
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.exe
+E:\derslerim için\c# ders notları\Personel Kayit\PersonelKayit\PersonelKayit\obj\Debug\PersonelKayit.pdb
